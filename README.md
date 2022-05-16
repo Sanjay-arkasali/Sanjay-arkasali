@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanjay-arkasali
 - 👀 I’m interested in ... Data Science , Machine Learning , Artificail Intelligence 
-- 🌱 I’m currently learning ... AI
-- 💞️ I’m looking to collaborate on ... AI
+- 🌱 I’m currently learning ... AI , ML , sql , TensorFlow
+- 💞️ I’m looking to collaborate on ... Data Science
 - 📫 How to reach me ... s.arkasali@yahoo.com
 
 <!---
